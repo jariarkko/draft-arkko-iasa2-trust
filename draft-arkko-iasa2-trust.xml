@@ -4,6 +4,7 @@
 <!ENTITY RFC4071 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4071.xml">
 <!ENTITY RFC4371 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.4371.xml">
 <!ENTITY RFC5378 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.5378.xml">
+<!ENTITY RFC7979 SYSTEM "http://xml.resource.org/public/rfc/bibxml/reference.RFC.7979.xml">
 <!ENTITY I-D.hall-iasa2-struct SYSTEM "http://xml.resource.org/public/rfc/bibxml3/reference.I-D.hall-iasa2-struct.xml">
 
 ]>
@@ -59,10 +60,10 @@
       newly created organisation with clearly defined interfaces
       towards the Internet Society and elsewhere. However, changes to
       IAOC will have an impact in the IETF Trust as well. This
-      document describes the dependencies between the two, and
-      suggests path(s) forward that allow the IETF Trust to become
-      independent of the IAOC changes, and continue its service to the
-      IETF and others largely unchanged.</t>
+      document describes the dependencies between the Trust and the
+      IASA, and suggests path(s) forward that allow the IETF Trust to
+      become independent of the IAOC changes, and continue its service
+      to the IETF and others largely unchanged.</t>
 
     </abstract>
   </front>
@@ -89,9 +90,8 @@
       are clearly defined.</t>
       
       <t>However, the IAOC's is interwtined with another IETF
-      organisation, the IETF Trust (<xref target="RFC4371"/>
-      and <xref target="RFC5378"/>, and as a result, changes
-      to IAOC will also impact the IETF Trust.</t>
+      organisation, the IETF Trust (<xref target="RFC4371"/>), and as
+      a result, changes to IAOC will also impact the IETF Trust.</t>
       
       <t>The purpose of this document is to describe those impacts,
       and suggest path(s) forward that allow the IETF Trust's role to
@@ -99,14 +99,67 @@
       service to the IETF and other communities otherwise
       unchanged.</t>
 
-      <t>...</t>
+      <t>The rest of this document is organised as follows. <xref
+      target="background"/> describes what the IETF Trust is and how
+      the current organisation is arranged. <xref
+      target="dependencies"/> points out the depencies between IETF
+      Trust and the rest of IASA, and how those dependencies require
+      action in the context of IASA 2.0 project. <xref
+      target="approach"/> discusses the general approach to these
+      changes, i.e., minimal changes and keeping the IETF Trust as its
+      own standalone entity. <xref target="changes"/> describes the
+      specific changes that are needed, along with potential
+      alternatives where they exist. Finally, <xref
+      target="transition"/> discusses what needs to be done before
+      these, final changes take effect.</t>
 
     </section>
+    
+    <section anchor="background" title="Background">
+      
+      <t>The purpose of the IETF Trust is to acquire, hold, maintain,
+      and license certain existing and future intellectual property
+      and other property used in connection with the administration of
+      the IETF <xref target="RFC4371"/>.</t>
+      
+      <t>In practical terms, when IETF contributors submit materials
+      for RFCs and Internet Drafts, they grant the IETF Trust gets
+      some rights <xref target="RFC5378"/>. The IETF Trust also
+      manages trademarks and domains such as "IETF" and ietf.org. The
+      IETF Trust is also serving the broader Internet community by
+      holding domains and trademark associated with IANA <xref
+      target="RFC7979"/>.</t>
+      
+    </section>
+   
+    <section anchor="dependencies" title="Dependencies">
 
+      <t>...</t>
+      
+    </section>
+    
+    <section anchor="approach" title="General Approach">
+
+      <t>...</t>
+      
+    </section>
+    <section anchor="changes" title="Specific Changes to IETF Trust">
+
+      <t>...</t>
+      
+    </section>
+    
+    <section anchor="transition" title="Transition">
+
+      <t>...</t>
+      
+    </section>
+    
     <section anchor="ack" title="Acknowledgements">
 
       <t>The authors would like to thank members of the earlier IASA
-      2.0 design team, as well as Alissa Cooper and Ted Hardie for
+      2.0 design team, as well as Alissa Cooper, Ted Hardie, Andrew
+      Sullivan, Brian Carpenter, Lucy Lynch, and John Levine for
       interesting discussions in this problem space.</t>
 
     </section>
@@ -120,6 +173,7 @@
       &RFC4071;
       &RFC4371;
       &RFC5378;
+      &RFC7979;
       &I-D.hall-iasa2-struct;
 
     </references>
