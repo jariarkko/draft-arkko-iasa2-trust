@@ -4,9 +4,9 @@
 
 Internet Engineering Task Force                                 J. Arkko
 Internet-Draft                                                  Ericsson
-Updates: 4071,4371 (if approved)                           June 19, 2018
+Updates: 4071,4371 (if approved)                           June 20, 2018
 Intended status: Informational
-Expires: December 21, 2018
+Expires: December 22, 2018
 
 
           IETF Trust Changes to Accommodate IASA Restructuring
@@ -14,16 +14,14 @@ Expires: December 21, 2018
 
 Abstract
 
-   The arrangements relating to administrative support for the IETF are
-   underoing change within the IASA2 working group.  The planned changes
-   include replacing the current IETF Administrative Oversight Committee
-   (IAOC) with a board for a newly created organisation with clearly
-   defined interfaces towards the Internet Society and elsewhere.
-   However, changes to IAOC will have an impact in the IETF Trust as
-   well.  This document describes the dependencies between the Trust and
-   the IASA, and suggests path(s) forward that allow the IETF Trust to
-   become independent of the IAOC changes, and continue its service to
-   the IETF and others largely unchanged.
+   An ongoing change plans to replace the current IETF Administrative
+   Oversight Committee (IAOC) with a board for a newly created
+   administrative organisation.  This change will have an impact in the
+   IETF Trust as well, primarily because members of the IAOC have also
+   served as trustees of the IETF Trust.  This memo describes the
+   dependencies between the Trust and the IETF administrative framework,
+   and suggests changes to allow the IETF Trust to continue its service
+   to the IETF and others, with minimal impact to those services.
 
 Status of This Memo
 
@@ -40,7 +38,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on December 21, 2018.
+   This Internet-Draft will expire on December 22, 2018.
 
 Copyright Notice
 
@@ -50,16 +48,16 @@ Copyright Notice
    This document is subject to BCP 78 and the IETF Trust's Legal
    Provisions Relating to IETF Documents
    (https://trustee.ietf.org/license-info) in effect on the date of
+   publication of this document.  Please review these documents
+   carefully, as they describe your rights and restrictions with respect
 
 
 
-Arkko                   Expires December 21, 2018               [Page 1]
+Arkko                   Expires December 22, 2018               [Page 1]
 
 Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 
-   publication of this document.  Please review these documents
-   carefully, as they describe your rights and restrictions with respect
    to this document.  Code Components extracted from this document must
    include Simplified BSD License text as described in Section 4.e of
    the Trust Legal Provisions and are provided without warranty as
@@ -69,82 +67,74 @@ Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Background  . . . . . . . . . . . . . . . . . . . . . . . . .   3
-   3.  Dependencies  . . . . . . . . . . . . . . . . . . . . . . . .   4
+   3.  Dependencies  . . . . . . . . . . . . . . . . . . . . . . . .   3
    4.  General Approach  . . . . . . . . . . . . . . . . . . . . . .   4
    5.  Specific Changes to IETF Trust  . . . . . . . . . . . . . . .   4
-     5.1.  Required Documentation Changes  . . . . . . . . . . . . .   6
-   6.  Transition  . . . . . . . . . . . . . . . . . . . . . . . . .   6
+     5.1.  Required Documentation Changes  . . . . . . . . . . . . .   5
+   6.  Transition  . . . . . . . . . . . . . . . . . . . . . . . . .   5
    7.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . .   6
-   8.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   7
-     8.1.  Normative References  . . . . . . . . . . . . . . . . . .   7
-     8.2.  Informative References  . . . . . . . . . . . . . . . . .   7
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   8
+   8.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   6
+     8.1.  Normative References  . . . . . . . . . . . . . . . . . .   6
+     8.2.  Informative References  . . . . . . . . . . . . . . . . .   6
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   7
 
 1.  Introduction
 
    The arrangements relating to administrative support for the IETF
    (referred to as the "IETF Administrative Support Activity" (IASA)
-   [RFC4071]) were created more than ten years ago, when the IETF
-   initially took charge of its own administration.  The arrangements
-   have served the IETF reasonably well, but there's been considerable
-   change in the necessary tasks, in the world around us, and our own
-   expectations since the creation of the IASA.  As a result, the IASA2
-   working group is proceeding to redefine the structure for IETF's
-   administrative support.
+   [RFC4071]) are being changed.
 
-   As of the redefinition, the working group is planning to remove the
-   IETF Administrative Oversight Committee (IAOC) and replace it with a
-   board that oversees a new, formal organisation whose boundaries
-   towards Internet Society (ISOC) and elsewhere are clearly defined.
+   One of the planned changes is to remove the IETF Administrative
+   Oversight Committee (IAOC) and replace it with a board that oversees
+   a new, formal organisation whose boundaries towards Internet Society
+   (ISOC) and elsewhere are clearly defined.
 
-   However, the IAOC's is interwtined with another IETF organisation,
-   the IETF Trust ([RFC4371]), and as a result, changes to IAOC will
-   also impact the IETF Trust.
+   However, the IAOC is interwtined with another IETF organisation, the
+   IETF Trust ([RFC4371]), and as a result, changes to IAOC will also
+   impact the IETF Trust.
 
-   The purpose of this document is to describe those impacts, and
-   suggest path(s) forward that allow the IETF Trust's role to be
-   defined independently of IAOC, and continue its important service to
-   the IETF and other communities otherwise unchanged.
+   This memo describes the dependencies between the Trust and the IETF
+   administrative framework, and suggests changes to allow the IETF
+   Trust to continue its service to the IETF and others, with minimal
+   impact to those services.
+
+   The rest of this document is organised as follows.  Section 2
+   describes briefly what the IETF Trust is and how the current
+   organisation is arranged.  Section 3 points out the dependencies
+   between IETF Trust and the rest of IASA, and how those dependencies
+   require action in the context of IASA 2.0 project.  Section 4
+   discusses the general approach to these changes, i.e., minimal
+   changes and keeping the IETF Trust as its own standalone entity.
+   Section 5 describes the specific changes that are needed, along with
 
 
 
-
-Arkko                   Expires December 21, 2018               [Page 2]
+Arkko                   Expires December 22, 2018               [Page 2]
 
 Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 
-   The rest of this document is organised as follows.  Section 2
-   describes what the IETF Trust is and how the current organisation is
-   arranged.  Section 3 points out the depencies between IETF Trust and
-   the rest of IASA, and how those dependencies require action in the
-   context of IASA 2.0 project.  Section 4 discusses the general
-   approach to these changes, i.e., minimal changes and keeping the IETF
-   Trust as its own standalone entity.  Section 5 describes the specific
-   changes that are needed, along with potential alternatives where they
-   exist.  Finally, Section 6 discusses what needs to be done before
-   these, final changes take effect.
+   potential alternatives where they exist.  Finally, Section 6
+   discusses what needs to be done before these, final changes take
+   effect.
 
 2.  Background
 
    The purpose of the IETF Trust is to acquire, hold, maintain, and
    license certain existing and future intellectual property and other
    property used in connection with the administration of the IETF
-   [RFC4371].
+   [RFC4371].  The intellectual property is, for instance, rights that
+   the IETF contributors grant for text in RFCs and Internet Drafts.
+   The IETF Trust also manages trademarks and domains such as "IETF" and
+   ietf.org.  The IETF Trust is also serving the broader Internet
+   community by holding domains and trademark associated with IANA
+   [RFC7979].
 
-   In practical terms, when IETF contributors submit materials such as
-   those intended for publication as an RFC, they grant the IETF Trust
-   gets some rights [RFC5378].  The IETF Trust also manages trademarks
-   and domains such as "IETF" and ietf.org.  The IETF Trust is also
-   serving the broader Internet community by holding domains and
-   trademark associated with IANA [RFC7979].
-
-   The IETF Trust is a legal entity, registered in District of Columbia
-   [Trust-FD].  It has a budget and is currently entirely funded by
-   Internet Society.  The 2018 expenses are expected to be 65,000 USD,
-   or about 1% of overall IETF expenses [Trust-Budget].  The main
+   The IETF Trust is a legal entity, registered in the Commonwealth of
+   Virginia [Trust-FD].  The budget for IETF Trust [Trust-Budget] is
+   covered from the Internet Society and a few other sources.  The main
    expenses relate to legal assistance and domain name and trademark
-   registrations throughout the world.
+   registrations.
 
    Currently, the members of the IAOC are also serving as trustees of
    the IETF Trust.  The founding documents specify persons eligible to
@@ -161,15 +151,6 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    member), along with three ex-officio members via their roles as IETF
    Chair, Internet Society CEO, or IAB Chair.
 
-
-
-
-
-Arkko                   Expires December 21, 2018               [Page 3]
-
-Internet-Draft           IASA 2.0 and IETF Trust               June 2018
-
-
 3.  Dependencies
 
    The following dependencies exist:
@@ -179,19 +160,24 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
       The IETF Trust depends on having IAOC members as Trustees.  A new
       arrangement for this needs to be found.
 
-   Funding
-
-      The IETF Trust continues to need a budget to manage its assets.
-      As funding arrangements are changed in the rest of the system, it
-      becomes necessary to specify how the IETF Trust is funded going
-      forward, and if there's any change to the current arrangement.
-
    IPR Usage
+
+
+
+
+Arkko                   Expires December 22, 2018               [Page 3]
+
+Internet-Draft           IASA 2.0 and IETF Trust               June 2018
+
 
       The IETF Trust needs to allow organisations to use the trademarks
       and other assets its owns.  As a new legal entity is created for
       IETF administration, it becomes necessary to authorize this new
       entity to use the assets that it needs.
+
+   In addition, for the part of IETF Trust funding coming directly from
+   Internet Society today, that arrangement could either stay or be
+   changed in some manner.
 
 4.  General Approach
 
@@ -214,30 +200,12 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 5.  Specific Changes to IETF Trust
 
-   The memo suggests that funding for IETF Trust be centralized to come
-   from the new IETF administrative support entity.  One of the goals of
-   the new entity is to be better in charge of all costs and income
-
-
-
-
-Arkko                   Expires December 21, 2018               [Page 4]
-
-Internet-Draft           IASA 2.0 and IETF Trust               June 2018
-
-
-   associated with the IETF, and putting the IETF Trust costs in the
-   same place seems practical and reasonable.
-
-      An alternative model would be to continue to use funding directly
-      from ISOC.
-
    This memo also suggestes that the new IETF administrative entity be
    given rights to use the IETF domain names and trademarks, which seems
    reasonable given that the administrative entity is the one that
    administers the IETF web site anyway.
 
-   Finally, if we want to keep the IETF Trust separate as discussed in
+   Secondly, if we want to keep the IETF Trust separate as discussed in
    Section 4, there needs to be a new way to name trustees.  At the time
    the trustees served both the IETF Trust and the IAOC, many of the
    requirements for naming a particular group of people were driven by
@@ -250,6 +218,14 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    process could be devised.  This memo argues for relatively limited
    change, however, largely on the basis of the IETF Trust arrangements
    generally working well, and on the relatively modest expected time
+
+
+
+Arkko                   Expires December 22, 2018               [Page 4]
+
+Internet-Draft           IASA 2.0 and IETF Trust               June 2018
+
+
    commitments combined with the need for very careful management of the
    assets.
 
@@ -265,22 +241,17 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
       Society CEO to be members of the IETF Trust.
 
    The normal IETF rules regarding recalls and other Nomcom-related
-   processes continue to apply [RFC3777].
+   processes continue to apply [RFC7437].
 
    The next section discusses what document changes are needed to make
    these changes.
 
+   Finally, this memo suggests that funding arrangements for the IETF
+   Trust stay as they are, but for the part of IETF Trust funding that
+   comes from Internet Society today be managed via the new
+   administrative entity instead.
 
-
-
-
-
-
-
-Arkko                   Expires December 21, 2018               [Page 5]
-
-Internet-Draft           IASA 2.0 and IETF Trust               June 2018
-
+      An alternative approach would be to make no changes.
 
 5.1.  Required Documentation Changes
 
@@ -303,19 +274,25 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    pressing need to change all the components at the same time.  As
    discussed above (Section 2), the IESG holds the ability to continue
    to name trustees.  Once the changes suggested in Section 5 are in
+
+
+
+Arkko                   Expires December 22, 2018               [Page 5]
+
+Internet-Draft           IASA 2.0 and IETF Trust               June 2018
+
+
    place, the IETF Trust will have management nominated in the usual
    manner, and the exceptional IESG process is no longer needed.
 
    However, the following actions do need to take place when a new
    administrative entity is created:
 
-   o  There needs to be an agreement between the IETF and Internet
-      Society that the IETF Trust shall be funded by either the Internet
-      Society directly or through the new administrative entity.
-      Perhaps this agreement can be a part of the operating agreement
-      that is being drafted.  And as discussed above, it seems logical
-      that the IETF Trust funding will be arranged through the new
-      administrative entity.
+   o  Any changes to how current Internet Society funding for IETF Trust
+      need to be agreed.  Perhaps this agreement can be a part of the
+      operating agreement that is being drafted.  And as discussed
+      above, it seems logical that the IETF Trust funding will be
+      arranged through the new administrative entity.
 
    o  The new administrative entity needs to be given rights to use the
       IETF domain names and trademarks.  This is normal IETF Trust
@@ -328,24 +305,9 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    Brian Carpenter, Lucy Lynch, and John Levine for interesting
    discussions in this problem space.
 
-
-
-
-
-
-Arkko                   Expires December 21, 2018               [Page 6]
-
-Internet-Draft           IASA 2.0 and IETF Trust               June 2018
-
-
 8.  References
 
 8.1.  Normative References
-
-   [RFC3777]  Galvin, J., Ed., "IAB and IESG Selection, Confirmation,
-              and Recall Process: Operation of the Nominating and Recall
-              Committees", RFC 3777, DOI 10.17487/RFC3777, June 2004,
-              <https://www.rfc-editor.org/info/rfc3777>.
 
    [RFC4071]  Austein, R., Ed. and B. Wijnen, Ed., "Structure of the
               IETF Administrative Support Activity (IASA)", BCP 101,
@@ -356,7 +318,25 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
               IPR Trust", BCP 101, RFC 4371, DOI 10.17487/RFC4371,
               January 2006, <https://www.rfc-editor.org/info/rfc4371>.
 
+   [RFC7437]  Kucherawy, M., Ed., "IAB, IESG, and IAOC Selection,
+              Confirmation, and Recall Process: Operation of the
+              Nominating and Recall Committees", BCP 10, RFC 7437,
+              DOI 10.17487/RFC7437, January 2015,
+              <https://www.rfc-editor.org/info/rfc7437>.
+
 8.2.  Informative References
+
+
+
+
+
+
+
+
+Arkko                   Expires December 22, 2018               [Page 6]
+
+Internet-Draft           IASA 2.0 and IETF Trust               June 2018
+
 
    [I-D.hall-iasa2-struct]
               Haberman, B., Hall, J., and J. Livingood, "Proposed
@@ -382,17 +362,6 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    [Trust-FD]
               IETF Trust, "Founding Documents", February 2014
               (https://trustee.ietf.org/founding-documents.html).
-
-
-
-
-
-
-
-Arkko                   Expires December 21, 2018               [Page 7]
-
-Internet-Draft           IASA 2.0 and IETF Trust               June 2018
-
 
 Author's Address
 
@@ -420,29 +389,4 @@ Author's Address
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Arkko                   Expires December 21, 2018               [Page 8]
+Arkko                   Expires December 22, 2018               [Page 7]
