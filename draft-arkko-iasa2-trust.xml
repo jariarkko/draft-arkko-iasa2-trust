@@ -215,17 +215,23 @@
       management of the assets.</t>
       
       <t>As a result, this memo suggests that a smaller group of five
-      trustees is sufficient, with two named from by the Nomcom, one
-      named by the IESG, one named by the Internet Society Board of
-      Trustees, and the IETF Chair as an ex-officio member.</t>
-
+      trustees is sufficient, with three named by the Nomcom, one
+      named by the IESG, and one named by the Internet Society Board
+      of Trustees.</t>
+      
       <t>In addition, the terms for the Nomcom- and IESG-named
       trustees should be set to three years.
-
+      
       <list style="empty">
 
 	<t>Note: It does not seem necessary for the IAB Chair or the
-	Internet Society CEO to be members of the IETF Trust.</t>
+	Internet Society CEO to be members of the IETF
+	Trust. Similarly, the IESG can choose the person they want to
+	oversee the IETF Trust, and it is not necessary that this
+	person be the IETF Chair. In general, the tasks of the IETF
+	Trust are well defined, and while there is a need for
+	coordination, it does not need to be at the level of chairs or
+	CEOs.</t>
 	
       </list></t>
       
