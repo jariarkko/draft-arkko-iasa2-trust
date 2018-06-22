@@ -95,14 +95,17 @@
       defined in <xref target="RFC4071"/> and <xref target="RFC4371"/>
       to eliminate the requirement that Trustees be drawn from the
       members of the IAOC.  Trustees shall instead be three members
-      nominated by the IETF Nominations Committee, one member
-      nominated by the IESG, and one member nominated by the ISOC
-      board of Trustees.</t>
-      
+      nominated by the IETF Nominations Committee and confirmed by the
+      IAB, one member selected by the IESG, and one member selected by
+      the ISOC board of Trustees.</t>
+
+      <t>The IETF Trust will provide a list of desired qualifications
+      for the trustee positions.</t>
+   
       <t>A change to the Trust Agreement is required to effectuate
       this change, and this document request that the current Trustees
       make this change at their earliest convenience.</t>
-      
+
       <t>The normal IETF rules regarding recalls and other Nomcom-related
       processes continue to apply <xref target="RFC7437"/>.</t>
 
