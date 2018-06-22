@@ -87,14 +87,20 @@ Table of Contents
    For a discussion of why this change is needed and a rationale for
    these specific changes, see [I-D.arkko-iasa2-trust-rationale].
 
-2.  Selection of Trustees
+2.  Number and Selection of Trustees
 
-   This document, if approved, revises the current procedures defined in
-   [RFC4071] and [RFC4371] to eliminate the requirement that Trustees be
-   drawn from the members of the IAOC.  Trustees shall instead be three
-   members nominated by the IETF Nominations Committee and confirmed by
-   the IAB, one member selected by the IESG, and one member selected by
-   the ISOC board of Trustees.
+   There shall continue to be five trustees.
+   
+   However, the procedures defined in
+   [RFC4071] and [RFC4371] that Trustees be drawn from the members of the IAOC is eliminated as a result of the planned elimination of the IAOC.  
+   
+   As a result, trustees shall instead be five
+   people selected as follows:
+   
+   * Three nominated by the IETF Nominations Committee (NomCom) and confirmed by
+   the IAB
+   * One member selected by the IESG
+   * One member selected by the IETF Administration LLC
 
    The IETF Trust will provide a list of desired qualifications for the
    trustee positions.
