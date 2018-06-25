@@ -89,15 +89,19 @@
       
     </section>
     
-    <section anchor="selection" title="Selection of Trustees">
+    <section anchor="selection" title="Number and Selection of Trustees">
       
-      <t>This document, if approved, revises the current procedures
+      <t>There shall continue to be five trustees.</t>
+      
+      <t>However, the procedures
       defined in <xref target="RFC4071"/> and <xref target="RFC4371"/>
-      to eliminate the requirement that Trustees be drawn from the
-      members of the IAOC.  Trustees shall instead be three members
-      nominated by the IETF Nominations Committee and confirmed by the
-      IAB, one member selected by the IESG, and one member selected by
-      the ISOC board of Trustees.</t>
+	      is eliminated as a result of the planned elimination of the IAOC.</t>
+	    
+	    <t>Trustees shall instead be:</t>
+	    <t>- Three members nominated by the IETF Nominations Committee and confirmed by the
+		    IAB.</t>
+	    <t>- One member selected by the IESG.</t>
+	    <t>- One member selected by the ISOC board of Trustees.</t>
 
       <t>The IETF Trust will provide a list of desired qualifications
       for the trustee positions.</t>
@@ -108,7 +112,7 @@
 
       <t>The normal IETF rules regarding recalls and other Nomcom-related
       processes continue to apply <xref target="RFC7437"/>.</t>
-
+	    
     </section>
 
     <section anchor="ack" title="Acknowledgements">
