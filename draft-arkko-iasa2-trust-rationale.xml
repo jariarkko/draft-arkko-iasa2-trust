@@ -23,8 +23,8 @@
   <front>
 
     <title abbrev="IASA 2.0 and IETF Trust">
-      Discussion of the Effects of IASA 2.0 Changes as They Relate to the IETF
-    Trust</title>
+      Discussion of the IASA 2.0 Changes as They Relate to the IETF
+      Trust</title>
     
     <author fullname="Jari Arkko" initials="J." 
             surname="Arkko">
@@ -181,7 +181,19 @@
       Trust are well defined, and while there is a need for
       coordination, it does not need to be at the level of chairs or
       CEOs.</t>
-	
+
+      <t>Given all this, one approach to the appointments is to have
+      trustees appointed by the Nominations Committee, IESG, and
+      Internet Society Board of Trustees (or the new legal entity, but
+      the Internet Society is perhaps more focused on the broad use of
+      the IETF Trust assets and not merely administrative
+      aspects).</t>
+      
+      <t>If the same principles continue to be used as are used in
+      today's appointments, then appointments performed by the
+      Nominations Committee need to be confirmed by another entity,
+      which could be, for instance, either the IESG or the IAB.</t>
+      
     </section>
 
     <section anchor="transition" title="Transition">

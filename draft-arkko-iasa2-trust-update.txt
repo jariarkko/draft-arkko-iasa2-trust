@@ -90,11 +90,11 @@ Table of Contents
 2.  Selection of Trustees
 
    This document, if approved, revises the current procedures defined in
-   [RFC4071] and [RFC4371] to eliminate the requirement that Trustees be
+   [RFC4071] and [RFC4371] to eliminate the requirement that trustees be
    drawn from the members of the IAOC.  Trustees shall instead be three
    members appointed by the IETF Nominations Committee and confirmed by
-   the IAB, one member appointed by the IESG, and one member appointed
-   by the ISOC board of Trustees.
+   the IESG, one member appointed by the IESG, and one member appointed
+   by the ISOC Board of Trustees.
 
    The IETF Trust will provide a list of desired qualifications for the
    trustee positions.
@@ -103,9 +103,9 @@ Table of Contents
    change, and this document request that the current Trustees make this
    change at their earliest convenience.
 
-   The normal IETF rules regarding recalls and other Nomcom-related
-   processes continue to apply [RFC7437].
-
+   The terms of the appointed trustees from Nominations Committee shall
+   be three years.  The initial selection shall be one, two, and three
+   year terms.  The other appointments by the IESG and the ISOC Board of
 
 
 
@@ -113,6 +113,12 @@ Arkko & Hardie          Expires December 29, 2018               [Page 2]
 
 Internet-Draft         Trustees for the IETF Trust             June 2018
 
+
+   Trustees shall be two year terms, with the initial terms being one
+   and two years, respectively.
+
+   The normal IETF rules regarding recalls and other Nomcom-related
+   processes continue to apply [RFC7437].
 
 3.  Acknowledgements
 
@@ -157,6 +163,13 @@ Authors' Addresses
    Email: jari.arkko@piuha.net
 
 
+
+
+Arkko & Hardie          Expires December 29, 2018               [Page 3]
+
+Internet-Draft         Trustees for the IETF Trust             June 2018
+
+
    Ted Hardie
 
    Email: ted.ietf@gmail.com
@@ -165,4 +178,47 @@ Authors' Addresses
 
 
 
-Arkko & Hardie          Expires December 29, 2018               [Page 3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arkko & Hardie          Expires December 29, 2018               [Page 4]

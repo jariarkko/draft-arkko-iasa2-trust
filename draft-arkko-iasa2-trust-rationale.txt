@@ -4,12 +4,11 @@
 
 Internet Engineering Task Force                                 J. Arkko
 Internet-Draft                                                  Ericsson
-Intended status: Informational                             June 21, 2018
-Expires: December 23, 2018
+Intended status: Informational                             June 27, 2018
+Expires: December 29, 2018
 
 
-Discussion of the Effects of IASA 2.0 Changes as They Relate to the IETF
-                                 Trust
+  Discussion of the IASA 2.0 Changes as They Relate to the IETF Trust
                   draft-arkko-iasa2-trust-rationale-00
 
 Abstract
@@ -42,24 +41,23 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on December 23, 2018.
+   This Internet-Draft will expire on December 29, 2018.
 
 Copyright Notice
 
    Copyright (c) 2018 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents
 
 
 
-
-Arkko                   Expires December 23, 2018               [Page 1]
+Arkko                   Expires December 29, 2018               [Page 1]
 
 Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 
-   This document is subject to BCP 78 and the IETF Trust's Legal
-   Provisions Relating to IETF Documents
    (http://trustee.ietf.org/license-info) in effect on the date of
    publication of this document.  Please review these documents
    carefully, as they describe your rights and restrictions with respect
@@ -106,15 +104,16 @@ Table of Contents
    [RFC4371].  The intellectual property is, for instance, rights that
    the IETF contributors grant for text in RFCs and Internet Drafts.
    The IETF Trust also manages trademarks and domains such as "IETF" and
+   ietf.org.  The IETF Trust is also serving the broader Internet
 
 
 
-Arkko                   Expires December 23, 2018               [Page 2]
+
+Arkko                   Expires December 29, 2018               [Page 2]
 
 Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 
-   ietf.org.  The IETF Trust is also serving the broader Internet
    community by holding domains and trademarks associated with IANA
    [RFC7979].
 
@@ -147,7 +146,7 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
    The rationale for advocating the second approach is in part to avoid
    causing too much change for the IETF Trust at a time when the IETF
-   administrative structure is undergoing major change.  And, perhaps more
+   administrative structure is ongoing major change.  And, perhaps more
    importantly, the IETF Trust and other administrative IETF process are
    quite different.  While very important, the IETF Trust is a very low
    activity entity where changes, if any, are minimal and gradual.
@@ -157,25 +156,19 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 4.  Changing the Way Trustees Are Selected
 
-
-
-
-
-
-
-
-
-Arkko                   Expires December 23, 2018               [Page 3]
-
-Internet-Draft           IASA 2.0 and IETF Trust               June 2018
-
-
    At the time the trustees served both the IETF Trust and the IAOC,
    many of the requirements for naming a particular group of people were
    driven by the IAOC's requirements.  For the IETF Trust in the new
    model, some of those arrangements can be rethought, both in terms of
    the number and source of the trustees, as well as the desired
    qualifications and length of terms.
+
+
+
+Arkko                   Expires December 29, 2018               [Page 3]
+
+Internet-Draft           IASA 2.0 and IETF Trust               June 2018
+
 
    Several options are possible, of course.  A newly designed naming
    process could be devised.  This memo argues for relatively limited
@@ -195,6 +188,17 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    be necessary.  In general, the tasks of the IETF Trust are well
    defined, and while there is a need for coordination, it does not need
    to be at the level of chairs or CEOs.
+
+   Given all this, one approach to the appointments is to have trustees
+   appointed by the Nominations Committee, IESG, and Internet Society
+   Board of Trustees (or the new legal entity, but the Internet Society
+   is perhaps more focused on the broad use of the IETF Trust assets and
+   not merely administrative aspects).
+
+   If the same principles continue to be used as are used in today's
+   appointments, then appointments performed by the Nominations
+   Committee need to be confirmed by another entity, which could be, for
+   instance, either the IESG or the IAB.
 
 5.  Transition
 
@@ -217,11 +221,7 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
 
 
-
-
-
-
-Arkko                   Expires December 23, 2018               [Page 4]
+Arkko                   Expires December 29, 2018               [Page 4]
 
 Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
@@ -231,9 +231,9 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 7.1.  Normative References
 
    [RFC4071]  Austein, R., Ed. and B. Wijnen, Ed., "Structure of the
-              IETF Administrative Support Activity (IASA)", BCP 101, RFC
-              4071, DOI 10.17487/RFC4071, April 2005, <https://www.rfc-
-              editor.org/info/rfc4071>.
+              IETF Administrative Support Activity (IASA)", BCP 101,
+              RFC 4071, DOI 10.17487/RFC4071, April 2005,
+              <https://www.rfc-editor.org/info/rfc4071>.
 
    [RFC4371]  Carpenter, B., Ed. and L. Lynch, Ed., "BCP 101 Update for
               IPR Trust", BCP 101, RFC 4371, DOI 10.17487/RFC4371,
@@ -241,8 +241,8 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
    [RFC7437]  Kucherawy, M., Ed., "IAB, IESG, and IAOC Selection,
               Confirmation, and Recall Process: Operation of the
-              Nominating and Recall Committees", BCP 10, RFC 7437, DOI
-              10.17487/RFC7437, January 2015, <https://www.rfc-
+              Nominating and Recall Committees", BCP 10, RFC 7437,
+              DOI 10.17487/RFC7437, January 2015, <https://www.rfc-
               editor.org/info/rfc7437>.
 
 7.2.  Informative References
@@ -266,18 +266,18 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
    [RFC7979]  Lear, E., Ed. and R. Housley, Ed., "Response to the IANA
               Stewardship Transition Coordination Group (ICG) Request
               for Proposals on the IANA Protocol Parameters Registries",
-              RFC 7979, DOI 10.17487/RFC7979, August 2016, <https://www
-              .rfc-editor.org/info/rfc7979>.
+              RFC 7979, DOI 10.17487/RFC7979, August 2016,
+              <https://www.rfc-editor.org/info/rfc7979>.
 
    [Trust-FD]
-              IETF Trust, , "Founding Documents", February 2014 (https:/
-              /trustee.ietf.org/founding-documents.html).
+              IETF Trust, , "Founding Documents", February 2014
+              (https://trustee.ietf.org/founding-documents.html).
 
 
 
 
 
-Arkko                   Expires December 23, 2018               [Page 5]
+Arkko                   Expires December 29, 2018               [Page 5]
 
 Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
@@ -333,4 +333,4 @@ Author's Address
 
 
 
-Arkko                   Expires December 23, 2018               [Page 6]
+Arkko                   Expires December 29, 2018               [Page 6]
