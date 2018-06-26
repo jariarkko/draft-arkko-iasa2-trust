@@ -147,7 +147,7 @@ Internet-Draft           IASA 2.0 and IETF Trust               June 2018
 
    The rationale for advocating the second approach is in part to avoid
    causing too much change for the IETF Trust at a time when the IETF
-   administrative structure is ongoing major change.  And, perhaps more
+   administrative structure is undergoing major change.  And, perhaps more
    importantly, the IETF Trust and other administrative IETF process are
    quite different.  While very important, the IETF Trust is a very low
    activity entity where changes, if any, are minimal and gradual.
