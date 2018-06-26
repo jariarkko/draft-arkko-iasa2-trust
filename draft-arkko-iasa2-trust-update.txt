@@ -5,8 +5,8 @@
 Internet Engineering Task Force                                 J. Arkko
 Internet-Draft                                                  Ericsson
 Updates: 4071,4371 (if approved)                               T. Hardie
-Intended status: Informational
-Expires: December 24, 2018                                 June 22, 2018
+Intended status: Informational                             June 27, 2018
+Expires: December 29, 2018
 
 
          Update to the Selection of Trustees for the IETF Trust
@@ -38,7 +38,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on December 24, 2018.
+   This Internet-Draft will expire on December 29, 2018.
 
 Copyright Notice
 
@@ -53,7 +53,7 @@ Copyright Notice
 
 
 
-Arkko & Hardie          Expires December 24, 2018               [Page 1]
+Arkko & Hardie          Expires December 29, 2018               [Page 1]
 
 Internet-Draft         Trustees for the IETF Trust             June 2018
 
@@ -92,9 +92,9 @@ Table of Contents
    This document, if approved, revises the current procedures defined in
    [RFC4071] and [RFC4371] to eliminate the requirement that Trustees be
    drawn from the members of the IAOC.  Trustees shall instead be three
-   members nominated by the IETF Nominations Committee and confirmed by
-   the IAB, one member selected by the IESG, and one member selected by
-   the ISOC board of Trustees.
+   members appointed by the IETF Nominations Committee and confirmed by
+   the IAB, one member appointed by the IESG, and one member appointed
+   by the ISOC board of Trustees.
 
    The IETF Trust will provide a list of desired qualifications for the
    trustee positions.
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Arkko & Hardie          Expires December 24, 2018               [Page 2]
+Arkko & Hardie          Expires December 29, 2018               [Page 2]
 
 Internet-Draft         Trustees for the IETF Trust             June 2018
 
@@ -126,9 +126,9 @@ Internet-Draft         Trustees for the IETF Trust             June 2018
 4.1.  Normative References
 
    [RFC4071]  Austein, R., Ed. and B. Wijnen, Ed., "Structure of the
-              IETF Administrative Support Activity (IASA)", BCP 101, RFC
-              4071, DOI 10.17487/RFC4071, April 2005, <https://www.rfc-
-              editor.org/info/rfc4071>.
+              IETF Administrative Support Activity (IASA)", BCP 101,
+              RFC 4071, DOI 10.17487/RFC4071, April 2005,
+              <https://www.rfc-editor.org/info/rfc4071>.
 
    [RFC4371]  Carpenter, B., Ed. and L. Lynch, Ed., "BCP 101 Update for
               IPR Trust", BCP 101, RFC 4371, DOI 10.17487/RFC4371,
@@ -136,16 +136,16 @@ Internet-Draft         Trustees for the IETF Trust             June 2018
 
    [RFC7437]  Kucherawy, M., Ed., "IAB, IESG, and IAOC Selection,
               Confirmation, and Recall Process: Operation of the
-              Nominating and Recall Committees", BCP 10, RFC 7437, DOI
-              10.17487/RFC7437, January 2015, <https://www.rfc-
+              Nominating and Recall Committees", BCP 10, RFC 7437,
+              DOI 10.17487/RFC7437, January 2015, <https://www.rfc-
               editor.org/info/rfc7437>.
 
 4.2.  Informative References
 
    [I-D.arkko-iasa2-trust-rationale]
               Arkko, J., "Discussion of the Effects of IASA 2.0 Changes
-              as They Relate to the IETF Trust", draft-arkko-iasa2
-              -trust-rationale-00 (work in progress), June 2018.
+              as They Relate to the IETF Trust", draft-arkko-iasa2-
+              trust-rationale-00 (work in progress), June 2018.
 
 Authors' Addresses
 
@@ -165,4 +165,4 @@ Authors' Addresses
 
 
 
-Arkko & Hardie          Expires December 24, 2018               [Page 3]
+Arkko & Hardie          Expires December 29, 2018               [Page 3]
