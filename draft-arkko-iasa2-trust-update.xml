@@ -59,9 +59,11 @@
     <abstract>
 
       <t>This memo updates the selection of trustees for the IETF
-      Trust. Previously, Administrative Oversight Committee (IAOC)
-      members also acted as trustees. This memo specifies that the
-      trustees shall be selected separately.</t>
+      Trust. Previously, the Internet Administrative Oversight 
+      Committee (IAOC) members also acted as trustees but the IAOC 
+      has been eliminated as part of an update of the structure of 
+      the Internet Administrative Support Activity (IASA). This memo 
+      specifies that the trustees shall be selected separately.</t>
 
       <t>This memo updates RFCs 4071 and 4371 with regards to the
       selection of trustees. All other aspects of the IETF Trust
@@ -75,9 +77,11 @@
     <section title="Introduction">
 
       <t>This memo updates the selection of trustees for the IETF
-      Trust. Previously, Administrative Oversight Committee (IAOC)
-      members also acted as trustees. This memo specifies that the
-      trustees shall be selected separately.</t>
+      Trust. Previously, the Internet Administrative Oversight 
+      Committee (IAOC) members also acted as trustees but the IAOC 
+      has been eliminated as part of an update of the structure of 
+      the Internet Administrative Support Activity (IASA). This memo 
+      specifies that the trustees shall be selected separately.</t>    
 
       <t>This memo updates RFCs 4071 and 4371 with regards to the
       selection of trustees. All other aspects of the IETF Trust
@@ -91,28 +95,33 @@
     
     <section anchor="selection" title="Selection of Trustees">
       
-      <t>This document, if approved, revises the current procedures
-      defined in <xref target="RFC4071"/> and <xref target="RFC4371"/>
-      to eliminate the requirement that trustees be drawn from the
-      members of the IAOC.  Trustees shall instead be three members
-      appointed by the IETF Nominations Committee and confirmed by the
-      IESG, one member appointed by the IESG, and one member appointed by
-      the ISOC Board of Trustees.</t>
+      <t>This document revises the original Trustee selection procedures
+      defined in <xref target="RFC4071"/> and <xref target="RFC4371"/>, 
+      to eliminate the requirement that trustees be drawn from the 
+      members of the IAOC.</t>  
+	    
+      <t>In this newly revised IETF Trust structure, there will be five Trustees. 
+      Three shall appointed by the IETF Nominating Committee (NomCom) 
+      and confirmed by the Internet Engineering Steering Group (IESG), 
+      one shall be appointed by the IESG, and one shall be appointed by
+      the Internet Society (ISOC) Board of Trustees.</t>
       
       <t>The IETF Trust will provide a list of desired qualifications
-      for the trustee positions.</t>
+      for the Trustee positions to each appointing body.</t>
       
       <t>A change to the Trust Agreement is required to effectuate
-      this change, and this document request that the current Trustees
-      make this change at their earliest convenience.</t>
+      this change, and this document requests that the current Trustees
+      make this change at their earliest convenience and no later than the 
+      end of the 104th IETF meeting in March 2019.</t>
       
-      <t>The terms of the appointed trustees from Nominations
-      Committee shall be three years. The initial selection shall be
-      one, two, and three year terms. The other appointments by the
-      IESG and the ISOC Board of Trustees shall be two year terms,
-      with the initial terms being one and two years, respectively.</t>
+      <t>The terms of the appointed trustees from IETF NomCom 
+      shall be three years. The initial selection shall be
+      one, two, and three year terms in order to initially stagger the 
+      terms and thus miminize potential annual Trustee turnover. The other 
+      appointments by the IESG and the ISOC Board of Trustees shall be two 
+      year terms, with the initial terms being one and two years, respectively.</t>
       
-      <t>The normal IETF rules regarding recalls and other Nomcom-related
+      <t>IETF rules regarding recalls and other Nomcom-related
       processes continue to apply <xref target="RFC7437"/>.</t>
 
     </section>
