@@ -56,19 +56,13 @@
 
     <abstract>
 
-      <t>The IASA 2.0 changes will have an impact on the IETF Trust 
-      because members of the IETF's Administrative Oversight
-      Committee (IAOC) IAOC, which is being phased out, have served 
-      as Trustees of the IETF Trust. A proposal for a minimal change 
-      regarding this has been provided separately in <xref
-      target="I-D.arkko-iasa2-trust-update"/>.</t>
-
-      <t>This companion memo provides some background on the details
-      of the current IETF Trust arrangements, explains the effect of
+      <t>The IASA 2.0 changes will have an impact on the IETF Trust
+      because members of the IET Administrative Oversight
+      Committee (IAOC) IAOC, which is being phased out, have served
+      as Trustees of the IETF Trust. This discussion document provides
+      background on the current IETF Trust arrangements, explains the effect of
       the rules in the founding documents during a transition to a new
       arrangement, and provides a rationale for the update.</t>
-
-      <t>This memo is provided only for discussion.</t>
 
     </abstract>
   </front>
